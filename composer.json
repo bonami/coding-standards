@@ -1,0 +1,23 @@
+{
+	"name": "bonami/coding-standards",
+	"description": "Bonami Coding Standard for PHP_CodeSniffer based on Slevomat and Consistence Coding Standard with custom configuration and additional checks.",
+	"license": "MIT",
+	"type": "phpcodesniffer-standard",
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"config": {
+		"bin-dir": "bin"
+	},
+	"require": {
+		"php": "^7.1",
+		"slevomat/coding-standard": "~6.0.8"
+	},
+	"require-dev": {
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "0.1.x-dev"
+		}
+	}
+}
+
