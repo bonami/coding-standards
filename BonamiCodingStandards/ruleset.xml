@@ -95,7 +95,7 @@
 	</rule>
 	<rule ref="SlevomatCodingStandard.Classes.UnusedPrivateElements">
 		<properties>
-			<property name="alwaysUsedPropertiesAnnotations" type="array" value="@ORM\Column,@ORM\ManyToOne,@Column,@ManyToOne,@OneToOne"/>
+			<property name="alwaysUsedPropertiesAnnotations" type="array" value="@ORM\Column,@ORM\ManyToOne,@ORM\OneToMany,@ORM\OneToOne,@Column,@ManyToOne,@OneToMany,@OneToOne"/>
 		</properties>
 	</rule>
 	<rule ref="SlevomatCodingStandard.Namespaces.ReferenceUsedNamesOnly">
