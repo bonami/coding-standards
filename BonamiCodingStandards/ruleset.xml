@@ -16,7 +16,6 @@
 		<exclude name="SlevomatCodingStandard.TypeHints.DeclareStrictTypes"/>
 		<exclude name="SlevomatCodingStandard.TypeHints.DisallowArrayTypeHintSyntax"/>
 		<exclude name="SlevomatCodingStandard.TypeHints.DisallowMixedTypeHint"/>
-		<exclude name="SlevomatCodingStandard.TypeHints.NullableTypeForNullDefaultValue"/>
 		<exclude name="SlevomatCodingStandard.TypeHints.NullTypeHintOnLastPosition"/>
 		<exclude name="SlevomatCodingStandard.TypeHints.ParameterTypeHint"/>
 		<exclude name="SlevomatCodingStandard.TypeHints.PropertyTypeHint"/>
@@ -56,7 +55,6 @@
 		<exclude name="SlevomatCodingStandard.PHP.ShortList"/>
 		<exclude name="SlevomatCodingStandard.PHP.TypeCast"/>
 		<exclude name="SlevomatCodingStandard.PHP.UselessParentheses"/>
-		<exclude name="SlevomatCodingStandard.PHP.UselessSemicolon"/>
 		<exclude name="SlevomatCodingStandard.Variables.DuplicateAssignmentToVariable"/>
 		<exclude name="SlevomatCodingStandard.Files.TypeNameMatchesFileName.NoMatchBetweenTypeNameAndFileName"/>
 		<exclude name="SlevomatCodingStandard.Functions.RequireArrowFunction"/>
@@ -78,12 +76,9 @@
 		<exclude name="SlevomatCodingStandard.ControlStructures.NewWithParentheses"/>
 		<exclude name="SlevomatCodingStandard.ControlStructures.NewWithoutParentheses"/>
 		<exclude name="SlevomatCodingStandard.ControlStructures.RequireMultiLineTernaryOperator"/>
-		<exclude name="SlevomatCodingStandard.ControlStructures.RequireNullCoalesceOperator"/>
 		<exclude name="SlevomatCodingStandard.ControlStructures.RequireShortTernaryOperator"/>
 		<exclude name="SlevomatCodingStandard.ControlStructures.RequireTernaryOperator"/> <!-- new sniff and 'else if' not supported -->
 		<exclude name="SlevomatCodingStandard.ControlStructures.RequireYodaComparison"/>
-		<exclude name="SlevomatCodingStandard.ControlStructures.UselessIfConditionWithReturn"/> <!-- 'if' without bracket not possible and more in release log -->
-		<exclude name="SlevomatCodingStandard.ControlStructures.UselessTernaryOperator"/>
 		<exclude name="SlevomatCodingStandard.Exceptions.ReferenceThrowableOnly"/>
 		<exclude name="Squiz.Commenting.FunctionComment"/>
 		<exclude name="Generic.Commenting.Todo"/>
