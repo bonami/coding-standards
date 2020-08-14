@@ -63,6 +63,7 @@
 		<exclude name="SlevomatCodingStandard.Functions.UnusedInheritedVariablePassedToClosure"/>
 		<exclude name="SlevomatCodingStandard.Functions.UnusedParameter"/>
 		<exclude name="SlevomatCodingStandard.Variables.UnusedVariable"/>
+		<exclude name="SlevomatCodingStandard.Functions.DisallowArrowFunction"/>
 		<exclude name="SlevomatCodingStandard.Functions.UselessParameterDefaultValue"/>
 		<exclude name="SlevomatCodingStandard.Variables.UselessVariable"/>
 		<exclude name="SlevomatCodingStandard.ControlStructures.AssignmentInCondition"/>
