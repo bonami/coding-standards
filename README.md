@@ -9,10 +9,6 @@ Rule definitions for phpcs based on [Slevomat coding standards](https://github.c
 
 The recommended way to install Bonami PHP Coding Standard is through Composer.
 
-```json
-{
-	"require-dev": {
-		"bonami/coding-standards": "~0.1"
-	}
-}
+```bash
+composer require --dev bonami/phpstan-collections
 ```
