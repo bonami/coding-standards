@@ -165,6 +165,14 @@
 	<rule ref="Generic.CodeAnalysis.UnconditionalIfStatement"/>
 	<rule ref="Generic.PHP.CharacterBeforePHPOpeningTag"/>
 	<rule ref="Generic.PHP.DisallowAlternativePHPTags"/>
+	<rule ref="SlevomatCodingStandard.Functions.ArrowFunctionDeclaration">
+		<properties>
+			<property name="spacesCountAfterKeyword" value="0"/>
+			<property name="spacesCountBeforeArrow" value="1"/>
+			<property name="spacesCountAfterArrow" value="1"/>
+			<property name="allowMultiLine" value="true"/>
+		</properties>
+	</rule>
 	<rule ref="Generic.Strings.UnnecessaryStringConcat">
 		<properties>
 			<property name="allowMultiline" value="true"/>
