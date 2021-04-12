@@ -10,7 +10,7 @@
 	},
 	"require": {
 		"php": "^7.1 || ^8.0",
-		"slevomat/coding-standard": "~6.4.1"
+		"slevomat/coding-standard": "^7.0"
 	},
 	"require-dev": {
 	},
