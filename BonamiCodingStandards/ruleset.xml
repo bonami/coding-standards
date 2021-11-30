@@ -83,6 +83,7 @@
 		<exclude name="SlevomatCodingStandard.Exceptions.ReferenceThrowableOnly"/>
 		<exclude name="Squiz.Commenting.FunctionComment"/>
 		<exclude name="Generic.Commenting.Todo"/>
+		<exclude name="SlevomatCodingStandard.Files.FunctionLength"/>
 	</rule>
 	<rule ref="SlevomatCodingStandard.Namespaces.UnusedUses">
 		<properties>
