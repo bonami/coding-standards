@@ -65,6 +65,7 @@
 		<exclude name="SlevomatCodingStandard.Functions.DisallowArrowFunction"/>
 		<exclude name="SlevomatCodingStandard.Functions.UselessParameterDefaultValue"/>
 		<exclude name="SlevomatCodingStandard.Variables.UselessVariable"/>
+		<exclude name="SlevomatCodingStandard.Functions.FunctionLength"/>
 		<exclude name="SlevomatCodingStandard.ControlStructures.AssignmentInCondition"/>
 		<exclude name="SlevomatCodingStandard.ControlStructures.BlockControlStructureSpacing"/>
 		<exclude name="SlevomatCodingStandard.ControlStructures.DisallowShortTernaryOperator"/>
