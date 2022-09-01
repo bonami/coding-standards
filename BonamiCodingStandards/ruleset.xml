@@ -84,6 +84,17 @@
 		<exclude name="Squiz.Commenting.FunctionComment"/>
 		<exclude name="Generic.Commenting.Todo"/>
 		<exclude name="SlevomatCodingStandard.Files.FunctionLength"/>
+		<exclude name="SlevomatCodingStandard.Functions.DisallowTrailingCommaInClosureUseSniff"/>
+		<exclude name="SlevomatCodingStandard.Exceptions.DisallowNonCapturingCatch.DisallowedNonCapturingCatch"/>
+		<exclude name="SlevomatCodingStandard.Classes.RequireAbstractOrFinal"/>
+		<exclude name="SlevomatCodingStandard.Functions.DisallowEmptyFunction"/>
+		<exclude name="SlevomatCodingStandard.Classes.RequireConstructorPropertyPromotion"/>
+		<exclude name="SlevomatCodingStandard.Classes.DisallowMultiPropertyDefinition"/>
+		<exclude name="SlevomatCodingStandard.Classes.DisallowConstructorPropertyPromotion"/>
+		<exclude name="SlevomatCodingStandard.Functions.DisallowNamedArguments"/>
+		<exclude name="SlevomatCodingStandard.Functions.DisallowTrailingCommaInCall"/>
+		<exclude name="SlevomatCodingStandard.Functions.DisallowTrailingCommaInDeclaration"/>
+		<exclude name="SlevomatCodingStandard.ControlStructures.DisallowNullSafeObjectOperator"/>
 	</rule>
 	<rule ref="SlevomatCodingStandard.Namespaces.UnusedUses">
 		<properties>
