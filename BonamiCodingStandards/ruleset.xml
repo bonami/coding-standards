@@ -84,7 +84,7 @@
 		<exclude name="Squiz.Commenting.FunctionComment"/>
 		<exclude name="Generic.Commenting.Todo"/>
 		<exclude name="SlevomatCodingStandard.Files.FunctionLength"/>
-		<exclude name="SlevomatCodingStandard.Functions.DisallowTrailingCommaInClosureUseSniff"/>
+		<exclude name="SlevomatCodingStandard.Functions.DisallowTrailingCommaInClosureUse"/>
 		<exclude name="SlevomatCodingStandard.Exceptions.DisallowNonCapturingCatch.DisallowedNonCapturingCatch"/>
 		<exclude name="SlevomatCodingStandard.Classes.RequireAbstractOrFinal"/>
 		<exclude name="SlevomatCodingStandard.Functions.DisallowEmptyFunction"/>
